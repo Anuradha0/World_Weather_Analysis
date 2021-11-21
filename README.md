@@ -1,4 +1,4 @@
-#### Weather analysis and travel recommendation with maps.  
+#### World_Weather_Analysis  
 
 ## Overview 
 The goal of this project was to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers. Moreover, I used the Google Maps API to come up with one hotel recommendation for each city. And lastly, I created a travel itinerary map where I chose 4 neighboor cities to come up with a full travel and directions guide. 
