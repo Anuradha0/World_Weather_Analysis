@@ -1,7 +1,7 @@
 #### World_Weather_Analysis  
 
 ## Overview 
-The goal of this project was to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. Then, show those destinations on a marker layer map with pop-up markers. Moreover, I used the Google Maps API to come up with one hotel recommendation for each city. And lastly, I created a travel itinerary map where I chose 4 neighboor cities to come up with a full travel and directions guide. 
+The goal of this project was to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. Then, show those destinations on a marker layer map with pop-up markers. Weather presences were added to identify ideal travel destinations and hotels nearby. Four cities were chosen to create a travel itinerary. Using Google Maps Directions API, a travel route was created between those four cities and a marker layer was added to the map
 
 ## Results
 
